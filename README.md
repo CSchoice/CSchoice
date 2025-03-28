@@ -7,6 +7,10 @@
 
 ## 🛠 기술 스택
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div>
+
 ### 🔧 백엔드 프레임워크  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
@@ -16,8 +20,16 @@
 ### 💾 데이터베이스  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSchoice&layout=compact&theme=radical" />
+</div>
+
+</div>
 
 ---
+
 
 ## 🚀 주요 프로젝트
 
@@ -53,19 +65,5 @@
 - 🌟 **[까꿍(KKAKKUNG)]** - 화상 플립북 생성 서비스  
 - 🌟 **[마음끗]** - 그룹 기반 강원도 여행지 추천 서비스  
 - 🌟 **[무드무비(Mood Movie)]** - 사용자의 기분에 따른 영화 추천 서비스  
-
----
-
-## 📊 GitHub 통계  
-
-<div align="center">
-  
-![GitHub 통계](https://github-readme-stats.vercel.app/api?username=CSchoice&show_icons=true&theme=radical&hide_title=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSchoice&layout=compact&theme=radical)
-
-
-</div>
-
----
-
 ## 📫 연락처  
 - 이메일: showoioi@naver.com  
