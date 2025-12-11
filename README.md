@@ -18,14 +18,6 @@
   ### 💾 데이터베이스  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-  </div>
-
-  <div style="flex-shrink: 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSchoice&layout=compact&theme=radical" />
-  </div>
-
-</div>
-
 ---
 
 ## 🚀 주요 프로젝트
@@ -72,3 +64,4 @@
 
 ## 📫 연락처  
 - 📧 이메일: showoioi@naver.com
+
